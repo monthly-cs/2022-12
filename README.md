@@ -16,5 +16,16 @@
 
 ### Plan
 
-1. 개론
-   1. 운영체제란
+1. 프로세스와 스레드
+   1. 동기화 객체의 종류
+   2. 뮤텍스와 세마포의 종류
+   3. Inner Process Communication
+   4. 프로세스 동기화의 정의, 문제점, 해결책
+2. CPU 스케쥴링
+   1. CPU 스케쥴러 예시
+3. 메모리
+   1. 가상 메모리
+5. Storage Managmenet
+   1. ~
+7. Security
+   1. ~
