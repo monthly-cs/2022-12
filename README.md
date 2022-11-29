@@ -25,7 +25,7 @@
    1. CPU 스케쥴러 예시(FCFS, SJF, SRTF, Priority Scheduling, RR)
 3. 메모리
    1. 가상 메모리
-5. Storage Managmenet
-   1. ~
-7. Security
+4. Storage Managmenet
+   1. File system
+5. Security
    1. ~
