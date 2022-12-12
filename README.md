@@ -19,8 +19,7 @@
 1. 프로세스와 스레드
    1. 동기화 객체의 종류, 커널 동기화 모드
    2. 유저 동기화 모드와 뮤텍스, 세마포어
-   3. Inner Process Communication
-   4. 프로세스 동기화의 정의, 문제점, 해결책
+   3. Inner Process Communication, 프로세스 동기화
 2. CPU 스케쥴링
    1. CPU 스케쥴러 예시(FCFS, SJF, SRTF, Priority Scheduling, RR)
 3. 메모리
