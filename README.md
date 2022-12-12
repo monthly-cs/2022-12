@@ -27,6 +27,7 @@
    2. Linux와 Windows의 메모리 관리
 4. Storage Management
    1. File system
+   2. 사용자 계정과 권한 부여
 5. Security
    1. 운영체제의 보안
    2. 암호화
