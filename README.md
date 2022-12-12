@@ -24,6 +24,7 @@
    1. CPU 스케쥴러 예시(FCFS, SJF, SRTF, Priority Scheduling, RR)
 3. 메모리
    1. 가상 메모리
+   2. Linux와 Windows의 메모리 관리
 4. Storage Management
    1. File system
 5. Security
