@@ -9,5 +9,5 @@
 
 - [ ] `LJF는 Longest Job First의 약자로서, 기아 상태를 유발시키는 알고리즘입니다.`
 - [ ] `SJF는 Shortest Job First의 약자로서, 기아 상태를 유발시키는 알고리즘입니다.`
-- [ ] `SRTF는 Shortest Remaining Time First의 약자로서, SJF가 가지는 단점인 기아 상태 유발을 해결한 알고리즘 이므로 HRRN으로 로직을 구성해야 합니다.`
+- [ ] `SRTF는 Shortest Remaining Time First의 약자로서, SJF가 가지는 단점인 기아 상태 유발을 해결한 알고리즘 이므로 SRTF으로 로직을 구성해야 합니다.`
 - [ ] `HRRN는 Highest Response Ratio Next로 SJF가 가지는 단점인 기아 상태를 유발을 해결한 알고리즘 이므로 HRRN으로 로직을 구성해야 합니다.`
