@@ -1,7 +1,7 @@
 ## Storage Management
 
 이 퀴즈는 2022년 12월 24일에 @sumin-dev에 의해서 작성되었습니다.  
-[Reference) Storage Management](https://github.com/monthly-cs/2022-12/blob/main/Storage%20Management/1.%20File%20system.md)
+[Reference) File system](https://github.com/monthly-cs/2022-12/blob/main/Storage%20Management/1.%20File%20system.md)
 
 
 
