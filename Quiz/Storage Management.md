@@ -21,6 +21,6 @@
 - [ ] `chmod u+wx, g+x, o+x sumin.text`
 - [ ] `chmod 762 sumin.text`
 - [ ] `chmod u=rwx, g+x, o-r sumin.text`
-- [ ] `chmod 751 sumin.text`
+- [X] `chmod 751 sumin.text`
 
 
